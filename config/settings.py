@@ -30,7 +30,7 @@ INSTALLED_APPS = [
     # third party apps
     'rest_framework',
     'channels',
-    # 'rest_framework_simplejwt',
+    'rest_framework_simplejwt',
 ]
 
 MIDDLEWARE = [
