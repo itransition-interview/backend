@@ -11,6 +11,10 @@ WebSockets (Daphne) – Real-time communication protocol
 
 Redis – Pub/Sub layer for pushing real-time data to WebSockets
 
+Docker - To containerize apps and make deployment process easy
+
+AWS EC2 - To deployment project frontend and backend as it is secure and has a lot reliable service for further work
+
 Frontend:
 HTML / CSS / JavaScript
 
